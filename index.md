@@ -2,13 +2,13 @@
 layout: home
 sidebar: false
 
-title: Nólëbase
-titleTemplate: 记录回忆，知识和畅想的地方
+title: Note笔记
+titleTemplate: 记录日常闲谈，知识收集和畅想的地方
 
 hero:
-  name: g~Nj$3J2^
-  text: 记录回忆，知识和畅想的地方
-  tagline: 以 Nólëbase 为名，读作 nole-base，取自意为「知识」的昆雅语 nólë 和意为「基础」的英文 base，即「知识库」
+  name: Peerk's Blog
+  text: 记录日常闲谈，知识收集和畅想的地方
+  tagline: 记录了一些想法，碎碎念，遇到的问题等等
   image:
     src: /logo.svg
     alt: Vitest
@@ -17,25 +17,29 @@ hero:
       text: 开始阅读
       link: /笔记/index
     - theme: alt
-      text: 加入 Discord 服务器
-      link: https://discord.gg/XuNFDcDZGj
-    - theme: alt
       text: GitHub 上浏览
       link: https://github.com/nolebase/nolebase
 
 features:
-  - title: 多样的主题和内容
-    details: 本知识库和所生成的页面均由创作者们维护，涉及到生活中各方面知识和内容，也不乏我们的回忆和畅想。
-    icon: 🌈
-  - title: 皆为 Markdown
-    details: 使用 Markdown 和 Markdown 拓展语法编写和记录笔记，每一个页面都是 Markdown 文件。
-    icon: 📃
-  - title: 由 VitePress 驱动
-    details: 基于 Vite 的强大静态文档页面生成器，它生成了我们知识库的页面，提供了简单易用的主题和工具。
-    icon: 🚀
-  - title: 由 Obsidian 驱动
-    details: 强大的知识库管理工具，支持花样繁多的插件和拓展，让知识管理变得更加简单。
-    icon: 🗃
+  - title: 一个不太正经的角落
+    details: 这里不追求系统性，也不保证有用，更像是把脑子里的缓存文件直接丢出来，有时候是记录，有时候只是自言自语。
+    icon: 🪐
+
+  - title: 碎片 > 完整
+    details: 比起长篇大论，这里更偏爱零散的想法、半成品的结论，甚至是还没想明白的东西。
+    icon: 🧷
+
+  - title: 想到就写
+    details: 没有选题，没有规划，没有“应该写什么”，只有“刚刚突然想到这个还挺有意思”。
+    icon: 💭
+
+  - title: Markdown 即本体
+    details: 不搞复杂编辑器，不堆功能，一切从简，写字这件事本身就已经够用了。
+    icon: 📄
+
+  - title: 数字废墟考古现场
+    details: 有些内容可能过时，有些观点可能被自己打脸，但它们会被保留下来——毕竟变化本身也值得被记录。
+    icon: 🏚️
 ---
 
 <HomePage />
