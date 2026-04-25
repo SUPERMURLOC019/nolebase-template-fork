@@ -21,7 +21,7 @@ export const creators: Creator[] = [
     name: '只梨',
     avatar: 'https://avatify.online/api/svg/eyJmYWNlIjo0LCJub3NlIjowLCJtb3V0aCI6MSwiZXllcyI6MTAsImV5ZWJyb3dzIjo1LCJnbGFzc2VzIjoyLCJoYWlyIjo1LCJhY2Nlc3NvcmllcyI6MCwiZGV0YWlscyI6MCwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoicmdiYSgyNTUsIDAsIDAsIDApIiwic2hhcGUiOiJub25lIn0=',
     username: 'Peerk',
-    title: '主页作者',
+    title: 'Creator',
     desc: '一个平平无奇的普通人',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/SUPERMURLOC019' },
