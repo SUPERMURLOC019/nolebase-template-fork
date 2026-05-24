@@ -1,8 +1,7 @@
 ### 起因
 在进行名为Microsoft .NET Host - 9.0.14(x86)的Windows更新时，提示找不到名为‘dotnet-host-9.0.9-win-x64.msi'的文件。
 
-"The feature you are trying to use is on a network resource that is unavailable."
-"Click OK to try again,or enter an alternate path to a folder containing the installation package'dotnet-host-0.0.4-win-x86.msi'in the bos below."
+![[截图 1.png|697]]
 
 在网上寻找方法，找到了一篇解决此类问题的文章（https://docs.lextudio.com/blog/recover-missing-dotnet-msi-on-windows-with-wix-toolset/）
 在尝试时发现，该教程过于简陋（可能我太笨），遇到了一些问题：
